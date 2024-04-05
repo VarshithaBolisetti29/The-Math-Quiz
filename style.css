@@ -1,0 +1,43 @@
+body
+{
+  background-image: url(Math.jpg);
+  
+ 
+}
+.div1
+{
+  background-color: rgb(231, 76, 107);
+  width: 500px;
+  height: 150px;
+}
+.div2
+{
+  background-color: rgb(231, 76, 107);
+  width: 500px;
+  height: 150px;
+}
+.button
+{
+  background-color: rgb(231, 76, 107);
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+
+h1
+{
+  color: aliceblue;
+}
+
+h2
+{
+  background-color: #AA4465;
+}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
